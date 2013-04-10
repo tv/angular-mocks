@@ -3,6 +3,6 @@
   "version": "1.1.4",
   "main": "./angular-mocks.js",
   "dependencies": {
-    "angular": "1.1.4"
+    "angular": "git://github.com/tv/angular.git#~1.1.4"
   }
 }
